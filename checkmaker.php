@@ -163,11 +163,3 @@ class Checkmaker
         }
     }
 }
-
-// $checkmaker = new Checkmaker(10, 0.1);
-// $checkmaker->init_population();
-// $checkmaker->print_population();
-// $checkmaker->set_evalations([3, 1, 3, 5, 3, 5, 3, 3, 3, 3]);
-// $checkmaker->generate_next();
-// $checkmaker->print_population();
-// $checkmaker->set_evalations([1, 3, 0, 5, 0, 5, 0, 0, 2, 0]);
