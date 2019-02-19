@@ -1,7 +1,7 @@
 # チェックメーカー(PHP版)
 チェックメーカーをPHPで実装しました
 
-- checkmaker.php
+- checkmaker.php  
 チェックメーカーのロジック部分
-- plaid.php
+- plaid.php  
 チェック画像の出力
