@@ -1,5 +1,6 @@
 <?php
-require_once "checkmaker.php";
+require_once "individual.php";
+require_once "iga.php";
 require_once "plaid.php";
 
 $generation_num = 5;
